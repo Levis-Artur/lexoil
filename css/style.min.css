@@ -31,6 +31,9 @@ body.compensate-for-scrollbar {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
 }
+
+
+
 .fancybox-bg,
 .fancybox-inner,
 .fancybox-outer,
@@ -4179,7 +4182,7 @@ a.text-dark:hover {
   border-top-color: #fcdb5a;
 }
 #app {
-  min-height: 100vh;
+  min-height: 20vh;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -8496,7 +8499,6 @@ img {
     margin-right: 20px;
   }
   .simple-banner--style-1 {
-    background-image: url(../images/banner_bg_1.png);
     background-repeat: no-repeat;
     background-position: top right;
   }
@@ -9135,7 +9137,7 @@ img {
     text-align: center !important;
   }
   .section {
-    padding-top: 140px;
+    padding-top: 100px;
     padding-bottom: 140px;
   }
   .comments-list ul {
